@@ -1,3 +1,5 @@
+#!/usr/bash
+
 # example for loop
 for x in 1 2 3
 do
